@@ -24,6 +24,8 @@ Check out [this](https://becominghuman.ai/creating-restful-api-to-tensorflow-mod
 - Replace image of shoes with generated shoes
 - Integrate Spotify
 - Clean this code up big time
+- Finish integrating audio to image synthesis
+- Finish conditioning generated image into generative shoe model
 
 ## Usage
 
